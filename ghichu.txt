@@ -1,1 +1,4 @@
-mới copy thủ công từ ngoài vào
+cái này hình như là clone của brach brMoiNe thì phải
+Nếu dòng này sau khi xài câu lệnh: git pull origin brMoiNe mà bên branch main có 
+thì thành công chuyển code từ nhánh brMoiNe sang nhánh main rồi đấy!
+lưu ý là chuyển online trên github
